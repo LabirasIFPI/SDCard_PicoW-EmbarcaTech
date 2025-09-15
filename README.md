@@ -98,3 +98,4 @@ Agora, no seu `main.c`, inclua o cabeçalho do módulo e utilize as suas funçõ
 - <https://github.com/igordev23/Sd-card-bitdog>
 - <http://www.technoblogy.com/show?3XEP>
 
+> Documentação por [@Nicolas Rafael](https://github.com/NicolasRaf)
